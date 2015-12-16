@@ -1,5 +1,5 @@
-# OVCDB
-The Open Vehicle Configuration Database
+# The Open Vehicle Configuration Database
+Also known as the OVCDB.
 
 ## Data
 The following data is available:
