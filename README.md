@@ -1,5 +1,6 @@
-# The Open Vehicle Configuration Database
-Also known as the OVCDB.
+# Vehicle Configurations
+
+A collection of vehicle combinations by year, make and model. 
 
 ## Data
 The following data is available:
